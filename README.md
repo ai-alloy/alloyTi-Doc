@@ -1,2 +1,5 @@
-# alloyTi-Doc
-the doc for alloyTi
+
+## Alloy Eye 文档
+
+Alloy Eye是向北直行科技推出的基于K210的人脸识别开发板，参考文档可以快速上手。
+
