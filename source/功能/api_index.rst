@@ -7,5 +7,6 @@
    :maxdepth: 2
 
    通用GPIO <gpio_api>
+   FPIOA映射 <fpioa_api>
 
 
