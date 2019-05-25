@@ -33,7 +33,7 @@ gpio_deinit
 
 visit `baidu <http://www.baidu.com>`_ 
 
-.. image:: ./images/lcd-module.png                                   
+.. image:: ../images/lcd-module.png                                   
     :width: 200px 
 	
 .. admonition:: 交流与答疑
