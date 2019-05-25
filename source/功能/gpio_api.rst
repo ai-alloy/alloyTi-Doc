@@ -31,6 +31,11 @@ gpio_deinit
 
 	释放GPIO资源。
 
+visit `baidu <http://www.baidu.com>`_ 
+
+.. image:: ./images/lcd-module.png                                   
+    :width: 200px 
+	
 .. admonition:: 交流与答疑
 
 	欢迎交流。
