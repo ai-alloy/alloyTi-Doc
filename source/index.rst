@@ -17,7 +17,7 @@ Alloy Eye内置高精度的人脸检测识别算法，同时支持Arduino平台�
    硬件/ying-jian
    准备/zhun-bei
    上手/shang-shou
-   功能/gong-neng
+   功能/docker_index
    其他/qi-ta
    其他/about
 
